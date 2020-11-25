@@ -1,0 +1,5 @@
+function FunOut=Fun_nlcneqJvnz(Fg_s,nlcneqw_Fg,Fgy_HSmax,Fgy_HSmin,Fgyperimax,Fgxperimax,Flgyswingmax,nlcneqw_qSeg,delta_qSeg_perimin,delta_qSeg_perimax,qSeg)
+FunOut=[nlcneqw_Fg(5);-nlcneqw_Fg(6);nlcneqw_Fg(1);-nlcneqw_Fg(2);nlcneqw_Fg(3);-nlcneqw_Fg(4);-nlcneqw_Fg(5);nlcneqw_Fg(6);-nlcneqw_Fg(3);nlcneqw_Fg(4);nlcneqw_Fg(9);nlcneqw_Fg(9);nlcneqw_Fg(9);nlcneqw_Fg(9);nlcneqw_Fg(9);nlcneqw_Fg(9);nlcneqw_Fg(9);nlcneqw_Fg(9);nlcneqw_Fg(9);nlcneqw_Fg(9);nlcneqw_Fg(9);nlcneqw_Fg(9);nlcneqw_Fg(9);nlcneqw_Fg(9);nlcneqw_Fg(9);nlcneqw_Fg(7);-nlcneqw_Fg(8);nlcneqw_qSeg;-nlcneqw_qSeg;-nlcneqw_qSeg;nlcneqw_qSeg;nlcneqw_qSeg;-nlcneqw_qSeg;-nlcneqw_qSeg;nlcneqw_qSeg;nlcneqw_qSeg;-nlcneqw_qSeg;-nlcneqw_qSeg;nlcneqw_qSeg;nlcneqw_qSeg;-nlcneqw_qSeg;-nlcneqw_qSeg;nlcneqw_qSeg;nlcneqw_qSeg;-nlcneqw_qSeg;-nlcneqw_qSeg;nlcneqw_qSeg;nlcneqw_qSeg;-nlcneqw_qSeg;-nlcneqw_qSeg;nlcneqw_qSeg;nlcneqw_qSeg;-nlcneqw_qSeg;-nlcneqw_qSeg;nlcneqw_qSeg;nlcneqw_qSeg;-nlcneqw_qSeg;-nlcneqw_qSeg;nlcneqw_qSeg;nlcneqw_qSeg;-nlcneqw_qSeg;-nlcneqw_qSeg;nlcneqw_qSeg];
+
+end
+
